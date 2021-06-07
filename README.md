@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iop3&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-**short term goal**: finish *[rockBot](https://github.com/iop3/rockBot)* (*`python and markdown`*)<br>
+**short term goal**: none yet<br>
 **long term goal**: survive covid
 
 [My website](https://iop3.is-a.dev). [My blog](https://iop3.github.io/myBlog/).
