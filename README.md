@@ -7,7 +7,7 @@
 **short term goal**: finish *[rockBot](https://github.com/iop3/rockBot)* (*`python and markdown`*)<br>
 **long term goal**: survive covid
 
-[My website](https://iop3.is-a.dev)
+[My website](https://iop3.is-a.dev). [My blog](https://iop3.github.io/myBlog/).
 
 ***
 ###### p.s. i have forked [~~the mighty~~ a potato](https://github.com/iop3/Potato) and i've forked [a thonk](https://github.com/iop3/thonk). You should fork a [pinnapple](https://github.com/iop3/Pinnapple) too ;3
