@@ -1,16 +1,20 @@
-### Hi there 👋
+![Profile views](https://gpvc.arturio.dev/iop3)
 
-<!--
-**iop3/iop3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![iop3's github stats](https://github-readme-stats.vercel.app/api?username=iop3&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iop3&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**short term goal**: finish *[rockBot](https://github.com/iop3/rockBot)* (*`python and markdown`*)<br>
+**long term goal**: survive covid
+
+[My website](https://iop3.is-a.dev)
+
+***
+###### p.s. i have forked [~~the mighty~~ a potato](https://github.com/iop3/Potato) and i've forked [a thonk](https://github.com/iop3/thonk). You should fork a [pinnapple](https://github.com/iop3/Pinnapple) too ;3
+###### p.p.s. *pro* tip: survive covid
+***
+
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges) [![GitHub license](https://img.shields.io/github/license/Naereen/badges.svg)](https://github.com/iop3/iop3/blob/main/LICENSE)
+
+[![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://ForTheBadge.com) [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://gitHub.com/iop3/)
+
