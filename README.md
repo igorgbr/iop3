@@ -10,7 +10,7 @@
 [My website](https://iop3.is-a.dev).
 
 ***
-###### p.s. i have forked [~~the mighty~~ a potato](https://github.com/iop3/Potato) and i've forked [a thonk](https://github.com/iop3/thonk). You should fork a [pinnapple](https://github.com/iop3/Pinnapple) too ;3
+###### p.s. i have forked [~~the mighty~~ a potato](https://github.com/iop3/Potato) and i've forked [a thonk](https://github.com/iop3/thonk) AND i've forked [a yeet](https://github.com/iop3/yeet). You should fork a [pinnapple](https://github.com/iop3/Pinnapple) ;3
 ###### p.p.s. *pro* tip: survive covid
 ***
 
