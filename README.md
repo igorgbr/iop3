@@ -1,4 +1,5 @@
 ![Profile views](https://gpvc.arturio.dev/iop3)
+(currently broken for some reason)
 
 [![iop3's github stats](https://github-readme-stats.vercel.app/api?username=iop3&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
