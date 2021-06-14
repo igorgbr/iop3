@@ -8,7 +8,7 @@
 **short term goal**: none yet<br>
 **long term goal**: survive covid
 
-[My website](https://iop3.is-a.dev). ([the source code.](https://github.com/iop3/myWebsite)).
+[My website](https://iop3.is-a.dev). ([the source code.](https://github.com/iop3/iop3.is-a.dev)).
 
 ***
 ###### p.s. i have forked [~~the mighty~~ a potato](https://github.com/iop3/Potato) and i've forked [a thonk](https://github.com/iop3/thonk) AND i've forked [a yeet](https://github.com/iop3/yeet). You should fork a [pinnapple](https://github.com/iop3/Pinnapple) ;3
