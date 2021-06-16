@@ -13,8 +13,8 @@ jobs:
       - name: lowlighter/metrics 😁
         uses: lowlighter/metrics@latest
         with:
-          user: whippingdot
-          token: ${{ secrets.LOWLIGHTER_METRICS }}
+          user: iop3
+          token: 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
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_reactions: yes
