@@ -10,11 +10,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # See action.yml for all options
-      - name: iop3/metrics
-        uses: iop3/metrics@latest
+      - name: lowlighter/metrics 😁
+        uses: lowlighter/metrics@latest
         with:
           user: iop3
-          token: ${{ secrets.LOWLIGHTER_METRICS }}
+          token: ${{ secrets.METRICS }}
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_reactions: yes
