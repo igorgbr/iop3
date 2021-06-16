@@ -1,5 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/iop3)
 
+![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
+
 [![iop3's github stats](https://github-readme-stats.vercel.app/api?username=iop3&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iop3&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
