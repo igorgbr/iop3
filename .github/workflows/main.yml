@@ -45,3 +45,8 @@ jobs:
           plugin_screenshot_url: https://xkcd.com   # Website url
           plugin_screenshot_selector: "#comic img"  # CSS selector to take into screenshot
           plugin_screenshot_background: no          # Remove page background
+          plugin_skyline: yes
+          plugin_skyline_year: 0            # Set to 0 to display current year
+          plugin_skyline_frames: 60         # Use 60 frames (half-loop)
+          plugin_skyline_quality: 0.5       # Set image quality
+          plugin_skyline_compatibility: yes # Support additional browsers (⚠️ increases file size and reduce optimization)
