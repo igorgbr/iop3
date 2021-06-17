@@ -22,5 +22,3 @@
 ### [My Profolio](https://iop3.is-a.dev)
 
 ### [My Blog](http://blog.iop3.dev)
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-([skyline isn't showing current year for some reason](https://github.com/lowlighter/metrics/issues/395))
