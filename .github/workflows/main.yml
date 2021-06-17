@@ -40,3 +40,8 @@ jobs:
           plugin_achievements_secrets: yes
           plugin_achievements_ignored: octonaut, infographile, scripter, forker
           plugin_achievements_limit: 0
+          plugin_screenshot: yes
+          plugin_screenshot_title: XKCD of the day  # Section title
+          plugin_screenshot_url: https://xkcd.com   # Website url
+          plugin_screenshot_selector: "#comic img"  # CSS selector to take into screenshot
+          plugin_screenshot_background: no          # Remove page background
